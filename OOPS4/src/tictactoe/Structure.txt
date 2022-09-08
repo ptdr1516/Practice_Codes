@@ -1,0 +1,6 @@
+/* TIC TAC TOE */
+/* Structure - Player, Board, TicTacToe --> Manager  */
+/* Player - Name, Symbol, Add. Details --> no. of games won */
+/* Board - P1Symbol, P2Symbol, size, count --> keep count of cells that are filled
+and remaining cells which are yet to be filled*/
+/* TicTacToe - Player1, Player2, Board */
